@@ -1,0 +1,1 @@
+{"version": "1.0.0", "manifest_version": 3, "name": "Auth Proxy", "permissions": ["proxy", "webRequest", "webRequestAuthProvider"], "host_permissions": ["<all_urls>"], "background": {"service_worker": "background.js"}}
